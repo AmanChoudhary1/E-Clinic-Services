@@ -1,0 +1,11 @@
+javaScript = <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+jquery = <script src="C:\laptop\web project\jquery.js"> </script>
+
+
+jquery starting function = $(document).ready(function()
+{
+
+    
+}
+);
